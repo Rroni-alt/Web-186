@@ -1,0 +1,22 @@
+body{
+    background-color: #673ab7;
+}
+h1{
+    height: 40px;
+    color: #ff2b38;
+    text-align: center;
+}
+   
+h2{
+    height: 25px;
+    color: #ffcc107;
+    text-align: center;
+}
+p{
+    height: 18px;
+    color: #cddc39;
+    text-align: center;
+}
+em{
+    color #ff5722;
+}

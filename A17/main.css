@@ -1,0 +1,77 @@
+body{
+    background-color: gray;
+}
+.katrori-1{
+    height: 500px;
+    width: 300px;
+    background-color: white;
+    border-radius: 30px;
+}
+.katrori-2{
+    height: 500px;
+    width: 300px;
+    background-color: white;
+    margin-left: 400px;
+    margin-top: -500px;
+    border-radius: 30px;
+}
+.katrori-3{
+    height: 500px;
+    width: 300px;
+    background-color: white;
+    margin-left: 850px;
+    margin-top: -500px;
+    border-radius: 30px;
+}
+img{
+    height: 50px;
+    width: 55px;
+    padding-left: 20px;
+}
+.basiclisence{
+    color: rgb(255, 255, 0);
+    padding-left: 20px;
+}
+.button-1{
+    height: 40px;
+    width: 200px;
+    background-color: gray;
+    margin-left: 50px;
+    text-align: center;
+}
+.money-1{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+span{
+    font-size: 40px;
+}
+hr{
+    width: 250px;
+}
+.paragrafi-1{
+    padding-left: 20px;
+    color: gray;
+}
+.month{
+    color: gray;
+    font-size: 20px;
+}
+.text{
+    padding-left: 20px;
+    color: gray
+}
+.plan-1{
+    padding: ;
+}
+.check-mark{
+    height: 15px;
+    width: 15px;
+}
+.basiclisence-1{
+    color: greenyellow;
+    padding-left: 20px;}
+.basiclisence-2{
+    color: aquamarine;
+    padding-left: 20px;
+}

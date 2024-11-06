@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+h1,h6,p,li,ul{
+    color: pink;
+}
+.forward{
+    margin-left: 50px;
+}

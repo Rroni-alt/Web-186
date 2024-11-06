@@ -1,0 +1,27 @@
+.main{
+    background-color: blueviolet;
+    display: flex;
+    /* flex-direction: column; */
+    flex-direction: row;
+
+}
+.content{
+    width: 55%;
+}
+.blue{
+    width: 44%;
+    background-color: red;
+}
+img{
+    width: 250px;
+    height: auto;
+}
+@media screen and (max-width:767px){
+    .main{
+        flex-direction: column;
+    }
+    .blue{
+        width: 100%;
+        background-color: blue;
+    }
+}

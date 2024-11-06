@@ -1,0 +1,23 @@
+a:link{
+    color: red;
+}
+a:visited{
+    color: yellow;
+}
+a:hover{
+    color: purple;
+}
+a:active{
+    color: brown;
+}
+p::first-line{
+    background-color: red;
+}
+p::first-letter{
+    background-color: blue;
+}
+.description::after{
+    content: "・❥・";
+    background-color: blue;
+    color: white;
+}

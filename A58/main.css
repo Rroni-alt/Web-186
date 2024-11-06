@@ -1,0 +1,13 @@
+img{
+    height: 100px;
+    width: 100px;
+    margin-left: 700px;
+    margin-top: 300px;
+    align-items: center;
+    transition: 2s;
+}
+img:hover{
+    height: 300px;
+    width: 300px;
+    position: fixed;
+}

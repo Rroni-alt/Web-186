@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p.paragrafi1{
+    color: red;
+}
+p,.paragrafi1{
+    color: blue;
+}
+/* thirri te gjitha paragrafat qe jane brenda div-it */
+div p{
+    background-color: green;
+}
+div>p{
+    color: white;
+}
+div+p{
+    font-size: 30px;
+}
+p~ul{
+    text-transform: uppercase;
+}
+p:first-child{
+    background-color: yellow;
+}
+p:last-child{
+    background-color: blue;
+}
+p:nth-child(3){
+    color: brown;
+}
+p:nth-of-type(odd){
+    text-decoration: dashed blueviolet;
+}

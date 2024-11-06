@@ -1,0 +1,42 @@
+div{
+    background-image: url("https://hips.hearstapps.com/hmg-prod/images/alpe-di-siusi-sunrise-with-sassolungo-or-langkofel-royalty-free-image-1623254127.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+h1, p{
+    color: white;
+}
+p{
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.5s;
+}
+.container h1:hover + p{
+    visibility: visible;
+    opacity: 1;
+}
+h1{
+    position: absolute;
+    bottom: 0;
+    transform: 0.5s;
+    
+}
+div:hover h1{
+    bottom: 15%;
+    transition: 2s;
+}
+p{
+    position: absolute;
+    bottom:0%;
+}
+div:hover p{
+    bottom: 15px;
+    transition: 2s;
+    bottom: 15%;
+}

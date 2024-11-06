@@ -1,0 +1,41 @@
+header{
+    background-color: brown;
+    height: 60px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin-left: 30px;
+}
+ul{
+    text-align: center;
+}
+li{
+    list-style-type: none;
+}
+.category{
+    margin-left: -100px;
+    margin-top: -18px;
+}
+.aboutus{
+    margin-left: 200px;
+    margin-top: -18px;
+}
+.contactus{
+    margin-left: 400px;
+    margin-top: -18px;
+}
+.login{
+    margin-left: 580px;
+    margin-top: -18px;
+}
+.category{
+    margin-left: -100px;
+    margin-top: -18px;
+}
+.home{
+    margin-left: 50px;
+    margin-top: -18px;
+}

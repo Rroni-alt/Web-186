@@ -1,0 +1,36 @@
+.box{
+    height: 100px;
+    width: 100px;
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: green;
+}
+.box3{
+    background-color: blue;
+}
+.box4{
+    background-color: yellow;
+}
+.box5{
+    background-color: purple;
+}
+.box6{
+    background-color: pink;
+}
+.box7{
+    background-color: gold;
+}
+.box8{
+    background-color: brown;
+}
+.container{
+    height: 500px;
+    display: flex;
+    flex-direction: ;
+    justify-content: 
+    align-items
+    flex-wrap
+}

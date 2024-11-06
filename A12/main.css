@@ -1,0 +1,52 @@
+p{
+    background-color: orange;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+div{
+    background-color: blueviolet;
+    color: aqua;
+    width: 100px;
+}
+span{
+    background-color: black
+    color:red
+    font size: 20px;
+}
+.emri1{
+    background-color: aqua;
+    color: black;
+    font-size: 20px;
+}
+.emri2{
+    background-color:red;
+    color: blue;
+    font-size: 20px;
+}
+.emri3{
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+}
+.emri4{
+    background-color: whitesmoke;
+    color: green;
+    font-size: 20px;
+}
+.emri5{
+    background-color: goldenrod;
+    color: aqua;
+    font-size: 20px;
+}
+.emri6{
+    background-color: purple;
+    color: green;
+    font-size: 20px;
+}
+.emri7{
+    background-color: aqua;
+    color: black;
+    font-size: 20px;
+}

@@ -1,0 +1,28 @@
+/* ngjyra me tekst */
+h1{
+color: red;
+letter-spacing: -50px;
+text transform: uppercase;
+}
+/* rgb */
+h2{
+    color: rgb(255, 0, 00);
+    letter-spacing: -10px;
+}
+h3{
+    color: fffffffff;
+    word-spacing: 15px;
+}
+h4{
+ text-indent: 30px;
+}
+h5{
+    text-align: right;
+text-decoration: line-through;
+}
+p{
+    line-height: 50px;
+}
+
+/* hex kombini i numrave dhe shkronjave dhe duhet te jene 6 karaktere */
+/* a e din qe arsimtarja jon o ma e mira Fatlume Zekaj 👑👑 */

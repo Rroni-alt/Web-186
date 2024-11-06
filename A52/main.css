@@ -1,0 +1,23 @@
+div{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    /* transform: translate(250px,80px); */
+    /* transform: translateY(250px); */
+    /* transform: rotate(20deg); */
+    margin-top: 50px;
+}
+div:hover{
+    background-color: blue;
+    /* transform: rotate(50deg);
+    transform: scale(-1); */
+}
+.skibidi{
+    transform: translate(920px,180px);
+}
+.skibidi:hover{
+    transform: skew(20deg);
+}
+.ohio{
+    transform: ;
+}

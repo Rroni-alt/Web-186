@@ -1,0 +1,15 @@
+.card{
+    width: 600px;
+    height: 400px;
+    background-color: blue;
+    
+}
+.main{
+    width: 100vw;
+    height: 500px;
+    background-color: red;
+    font-size: 20px;
+}
+h1{
+    font-size: 3em;
+}

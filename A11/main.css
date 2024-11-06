@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+li{
+    list-style-type: decimal;
+}
+.li1{
+    list-style-type: armenian;
+}
+.li2{
+    list-style-type: lower-greek;
+}
+.li3{
+    list-style-type: lower-alpha;
+}
+.li4{
+    list-style-type: lower-greek;
+}
